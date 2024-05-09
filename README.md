@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ginosanterre
+👋 Hi, I’m @ginosanterre
+
+This is my GitHub Profile Page.
 
 <!---
 ginosanterre/ginosanterre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
