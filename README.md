@@ -11,8 +11,8 @@ This is my GitHub Profile Page.
     srcset="https://github-readme-stats.vercel.app/api?username=ginosanterre&show_icons=true&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ginosanterre&show_icons=true" />
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=ginosanterre&show_icons=true" /><br>
+</picture><br>
    
 <picture>
   <source
@@ -23,8 +23,8 @@ This is my GitHub Profile Page.
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=ginosanterre&theme=transparent&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ginosanterre" />
-</picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ginosanterre" /> <br>
+</picture><br>
   
 <picture>
   <source
@@ -35,7 +35,7 @@ This is my GitHub Profile Page.
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ginosanterre&langs_count=5&layout=compact&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginosanterre" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginosanterre" /> 
 </picture>
 
 <!---
