@@ -16,11 +16,11 @@ This is my GitHub Profile Page.
    
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ginosanterre&theme=transparent&theme=dracula"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ginosanterre&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ginosanterre&theme=transparent&theme=default"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ginosanterre&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ginosanterre" /> <br>
