@@ -2,7 +2,7 @@
 
 This is my GitHub Profile Page.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ginosanterre&show_icons=true&hide_title=false&count_private=false&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ginosanterre&show_icons=true&hide_title=false&count_private=false&theme=default)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ginosanterre&langs_count=5&layout=compact&theme=default)
 
 <!---
