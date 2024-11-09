@@ -1,9 +1,9 @@
-👋 Hi, I’m @ginosanterre  
+👋 Hi, I’m @ginosanterre
 
-This is my GitHub Profile Page.  
+This is my GitHub Profile Page.
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ginosanterre&show_icons=true&theme=dracula)  
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ginosanterre&langs_count=5&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ginosanterre&show_icons=true&hide_title=false&count_private=false&theme=default)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ginosanterre&langs_count=5&layout=compact&theme=default)
 
 <!---
 ginosanterre/ginosanterre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
