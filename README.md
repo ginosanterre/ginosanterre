@@ -13,7 +13,7 @@ This is my GitHub Profile Page.
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ginosanterre&show_icons=true" />
 </picture>
-
+   
 <picture>
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=ginosanterre&theme=transparent&theme=dracula"
@@ -25,7 +25,7 @@ This is my GitHub Profile Page.
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ginosanterre" />
 </picture>
-
+  
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ginosanterre&langs_count=5&layout=compact&theme=dracula"
