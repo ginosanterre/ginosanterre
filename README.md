@@ -16,6 +16,18 @@ This is my GitHub Profile Page.
   
 <picture>
   <source
+    srcset="https://github-readme-stats-fast.vercel.app/api/streak/?username=ginosanterre&langs_count=5&layout=compact&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api/streak/?username=ginosanterre&langs_count=5&layout=compact&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=ginosanterre" /> 
+</picture><br>
+
+<picture>
+  <source
     srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ginosanterre&langs_count=5&layout=compact&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
